@@ -33,9 +33,9 @@
         { id: "CMP-AML-07", law: "High Volume Threshold Monitor", target: "Acc...90423 (Khen Lyda)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "In Review" },
         { id: "CMP-KYC-05", law: "Standard Verification Check", target: "Acc...90244 (B)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-KYC-06", law: "Standard Verification Check", target: "Acc...90245 (Huokaing Tharoth)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
-        { id: "CMP-AML-08", law: "Bulk Sweep Outflow Monitor", target: "Acc...90246 (Tek Hy)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "Resolved" },
-        { id: "CMP-RMG-01", law: "Retail Mobile Transfer Scan", target: "Acc...90247 (Phann)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "Resolved" },
-        { id: "CMP-RMG-02", law: "Retail Mobile Transfer Scan", target: "Acc...90248 (Vichaka)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "Resolved" },
+        { id: "CMP-AML-08", law: "Bulk Sweep Outflow Monitor", target: "Acc...90246 (Tek Hy)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "In Review" },
+        { id: "CMP-RMG-01", law: "Retail Mobile Transfer Scan", target: "Acc...90247 (Phann)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "In Review" },
+        { id: "CMP-RMG-02", law: "Retail Mobile Transfer Scan", target: "Acc...90248 (Vichaka)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "In Review" },
         { id: "CMP-KYC-07", law: "Standard Account Scan", target: "Acc...90249 (Nita)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-RMG-03", law: "Retail Gateway Monitor", target: "Acc...90250 (Raem)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" }
 ];
