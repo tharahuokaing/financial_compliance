@@ -17,7 +17,7 @@
         { id: "CMP-AML-05", law: "High Value Outflow Alert", target: "Acc...90226 (Leda)", severity: "medium", volume: 10000000.00, time: "00:00:00", status: "In Review" },
         { id: "CMP-PEP-07", law: "Politically Exposed Person Monitor", target: "Acc...90227 (Thorn)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-SAN-11", law: "OFAC SDN Cross-Reference Scan", target: "Acc...90228 (Vanneat)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
-        { id: "CMP-KYC-09", law: "Missing Corporate Verification Map", target: "Acc...90229 (Mengly)", severity: "medium", volume: 31000000.00, time: "12:44:01", status: "Flagged" },
+        { id: "CMP-KYC-09", law: "Missing Corporate Verification Map", target: "Acc...90229 (Mengly)", severity: "high", volume: 31000000.00, time: "12:44:01", status: "Flagged" },
         { id: "CMP-AML-02", law: "Structured Layering Evaluation Sweep", target: "Acc...90230 (Leyu)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-AML-04", law: "Velocity Threshold Breach (> $50k)", target: "Acc...90231 (Sengchhat)", severity: "high", volume: 42000000.00, time: "11:05:19", status: "In Review" },
         { id: "CMP-MICRO-02", law: "Micro-Transaction Trace", target: "Acc...90232 (Do)", severity: "low", volume: 1.00, time: "00:00:00", status: "Resolved" },
