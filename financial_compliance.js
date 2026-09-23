@@ -19,7 +19,7 @@
         { id: "CMP-SAN-11", law: "OFAC SDN Cross-Reference Scan", target: "Acc...90228 (Vanneat)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-KYC-09", law: "Missing Corporate Verification Map", target: "Acc...90229 (Mengly)", severity: "high", volume: 31000000.00, time: "10:30:00", status: "Flagged" },
         { id: "CMP-AML-02", law: "Structured Layering Evaluation Sweep", target: "Acc...90230 (Leyu)", severity: "low", volume: 0.00, time: "00:00:00", status: "Resolved" },
-        { id: "CMP-AML-04", law: "Velocity Threshold Breach (> $50k)", target: "Acc...90231 (Sengchhat)", severity: "high", volume: 42000000.00, time: "16:30:00", status: "Flagged" },
+        { id: "CMP-AML-04", law: "Velocity Threshold Breach (> $50k)", target: "Acc...90231 (Sengchhat)", severity: "high", volume: 42000000.00, time: "16:30:00", status: "In Review" },
         { id: "CMP-MICRO-02", law: "Micro-Transaction Trace", target: "Acc...90232 (Do)", severity: "low", volume: 1.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-MICRO-03", law: "Micro-Transaction Trace", target: "Acc...90233 (Jav)", severity: "low", volume: 1.00, time: "00:00:00", status: "Resolved" },
         { id: "CMP-AML-06", law: "Threshold Monitoring Breach", target: "Acc...90234 (Loy Kimmuy)", severity: "medium", volume: 10010000.00, time: "17:30:00", status: "In Review" },
